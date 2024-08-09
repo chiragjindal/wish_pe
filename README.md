@@ -199,3 +199,7 @@ Add the ability to prioritize items and lists, and introduce hide/unhide feature
 - **Wishlist Vision Board**: A feature to compile long-term goals and aspirations into a vision board powered by AI.
 - **AI Chat Support**: Introduce AI-driven chat support for creating lists through text or voice commands, making the app even more accessible and intuitive.
 
+
+![WishPe Logo](https://github.com/chiragjindal/wish_pe/blob/main/assets/images/icon-480.png) <!-- Add the logo image link here -->
+
+[APK File](https://drive.google.com/drive/folders/12Mp2fEbWCSbGYXTQiK1cyxkQFsR4NI77?usp=drive_link)
