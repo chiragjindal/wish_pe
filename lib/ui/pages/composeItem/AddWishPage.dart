@@ -391,6 +391,12 @@ class _AddWishPageState extends State<AddWishPage> {
       List<String> itemKeys = [];
       for (var item in response) {
         final result = await parseLLMResponse(item, searchState, authState, []);
+        await itemState.uploadFile(inputFile!).then((imagePath) async {
+          if (imagePath != null) {
+            result.value1.imageUrl = imagePath;
+            result.value2.images = [imagePath];
+          }
+        });
         String? itemKey = await itemState.createItem(result.value1,
             itemDetailModel: result.value2);
         itemKeys.add(itemKey!);
