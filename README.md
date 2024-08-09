@@ -1,11 +1,11 @@
 ## WishPe - AI Powered Universal Wishlist Solution
 A Gemini API Developer Competition 2024 project
 
-![Wish Pe Logo](https://github.com/chiragjindal/wish_pe/blob/main/assets/images/logo.png) <!-- Add the logo image link here -->
+![WishPe Logo](https://github.com/chiragjindal/wish_pe/blob/main/assets/images/logo.png) <!-- Add the logo image link here -->
 
 ## Description
 
-WishPe is a versatile Flutter application designed to help users create and manage wishlists effortlessly. Whether you're tracking your personal shopping lists or curating public wishlists to share with others, Wish Pe provides a seamless and intuitive experience. Wish Pe allows users to follow providers like Amazon, Target, and Walmart, as well as other users, to get updates on their public lists. Additionally, the app enables AI-driven features using Gemini AI for enhanced personalization and user engagement. Whether you're tracking your personal shopping needs or discovering trending lists, Wish Pe uses advanced AI to personalize your experience.
+WishPe is a versatile Flutter application designed to help users create and manage wishlists effortlessly. Whether you're tracking your personal shopping lists or curating public wishlists to share with others, WishPe provides a seamless and intuitive experience. WishPe allows users to follow providers like Amazon, Target, and Walmart, as well as other users, to get updates on their public lists. Additionally, the app enables AI-driven features using Gemini AI for enhanced personalization and user engagement. Whether you're tracking your personal shopping needs or discovering trending lists, WishPe uses advanced AI to personalize your experience.
 
 ### Key Highlights:
 - **Trending Lists & AI Recommendations**: Discover trending lists and get personalized list/item suggestions powered by AI.
@@ -20,7 +20,7 @@ WishPe is a versatile Flutter application designed to help users create and mana
 
 
 ## Gemini AI: The Star of WishPe
-Wish Pe isn't just about lists—it's about transforming the way you shop, discover, and share your interests with others.
+WishPe isn't just about lists—it's about transforming the way you shop, discover, and share your interests with others.
 
 Gemini AI powers the core functionalities of WishPe, making it the ultimate tool for wishlist management. Here's how Gemini AI elevates the app:
 - **Personalized Suggestions**: AI-driven recommendations for items and lists tailored to your preferences.
@@ -43,16 +43,16 @@ Gemini AI powers the core functionalities of WishPe, making it the ultimate tool
 ### Judging Criteria Alignment
 
 #### **Remarkability**
-Wish Pe is a standout app that blends AI-driven wishlist management with a user-friendly, Spotify-like interface. Its use of Gemini AI for personalized recommendations, smart insights, and innovative wish creation methods sets it apart from conventional wishlist tools.
+WishPe is a standout app that blends AI-driven wishlist management with a user-friendly interface. Its use of Gemini AI for personalized recommendations, smart insights, and innovative wish creation methods sets it apart from conventional wishlist tools.
 
 #### **Creativity**
 The app excels in creativity with features like AI-powered wish creation from URLs and images, the "Wishlist Storyteller" for engaging narratives, and a UI inspired by music streaming services, offering a fresh and intuitive user experience.
 
 #### **Usefulness**
-Wish Pe simplifies wishlist management while adding value through AI-generated suggestions, user insights, and review summaries. The global search and library features make it easy to find, organize, and manage all your lists and wishes in one place.
+WishPe simplifies wishlist management while adding value through AI-generated suggestions, user insights, and review summaries. The global search and library features make it easy to find, organize, and manage all your lists and wishes in one place.
 
 #### **Impactfulness**
-Leveraging advanced AI, Wish Pe enhances the shopping experience with personalized recommendations and insights. Its social features, like following and engaging with users, providers, and lists, create a community-driven platform that is both impactful and engaging.
+Leveraging advanced AI, WishPe enhances the shopping experience with personalized recommendations and insights. Its social features, like following and engaging with users, providers, and lists, create a community-driven platform that is both impactful and engaging.
 
 ## Dependencies
 <details>
