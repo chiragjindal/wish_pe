@@ -182,3 +182,20 @@ lib
 ```
 </details>
 
+### Future Scope & Ideas
+
+#### **1. Collaborative Lists**
+Enable users to join and collaborate on lists as a group. Users can invite others to contribute, making it ideal for shared projects, events, or gift planning.
+
+#### **2. Support for Discussion/Comments**
+Introduce discussion threads and comments on items and lists, allowing users to share opinions, advice, and feedback directly within the app.
+
+#### **3. Priority & Visibility Controls**
+Add the ability to prioritize items and lists, and introduce hide/unhide features for better organization and privacy.
+
+#### **4. AI-Driven Features**
+- **Wishlist for Events**: AI-generated wishlists tailored to specific events like birthdays, weddings, or holidays.
+- **Wishlist Mood Board**: Create mood boards from wishlists, helping users visualize their desires in a creative and inspiring way.
+- **Wishlist Vision Board**: A feature to compile long-term goals and aspirations into a vision board powered by AI.
+- **AI Chat Support**: Introduce AI-driven chat support for creating lists through text or voice commands, making the app even more accessible and intuitive.
+
